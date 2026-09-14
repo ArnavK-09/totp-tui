@@ -1,4 +1,4 @@
-# 🦀 totp-tui 🦀
+<h1 align="center">🦀 totp-tui 🦀</h1>
 
 <p align="center">
   <img src="./screenshot.png" alt="totp-tui hero" width="100%">
